@@ -102,7 +102,7 @@ Display battle history for the given time period. This will have to be capped at
 
 #### [GM] Upcoming battles
 
-Display the clan's battle schedule for the current global map season.
+Display the clan's battle schedule for the current global map season. This should be reaction controlled to allow a refresh to prevent needing to re-run the command.
 
 * Type (Attack/Defence/Landing)
 * Time
