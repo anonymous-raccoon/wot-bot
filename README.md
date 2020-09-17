@@ -71,7 +71,7 @@ Display battle history for the given time period. This will have to be capped at
 * Short list of battles
   * `[XXXX] defeated the [YYYY] clan`
 
-*The above can be accessed from [this](https://eu.wargaming.net/globalmap/#clanlog/500075018) page*
+*The above can be accessed from [this](https://eu.wargaming.net/globalmap/#clanlog/CLAN_ID) page*
 
 ***
 
@@ -98,7 +98,19 @@ Display battle history for the given time period. This will have to be capped at
 * Short list of battles
   * `[XXXX] defeated the [YYYY] clan in a landing tournament for the ZZZZ province.`
 
-*The above can be accessed from [this](https://eu.wargaming.net/globalmap/#clanlog/500075018) page*
+*The above can be accessed from [this](https://eu.wargaming.net/globalmap/#clanlog/CLAN_ID) page*
+
+#### [GM] Upcoming battles
+
+Display the clan's battle schedule for the current global map season.
+
+* Type (Attack/Defence/Landing)
+* Time
+* Map and start (North/South, Base 1/2)
+* Province
+* Enemy Clan
+
+*The above can be accessed from [this](https://eu.wargaming.net/globalmap/#battles/CLAN_ID) page*
 
 ***
 
