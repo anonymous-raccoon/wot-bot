@@ -41,6 +41,8 @@ If a clan is found a custom embed will be returned detailing basic statistics ab
 * Clan rating
 * eSH X, VII, and VI, alongside win rate
 
+*The above can be accessed from [this](https://eu.wargaming.net/clans/wot/CLAN_ID/) page.*
+
 #### Player
 
 If a player is found this will return a [wotlabs](https://wotlabs.net/eu) signature image (for a player). An example of one of these is shown below:
@@ -87,7 +89,7 @@ Overview of clan statistics on the global map. Including:
 * Gold over last 28 days
 * Influence
 
-*The above can be accessed from [this]([@](https://eu.wargaming.net/clans/wot/CLAN_ID/globalmap)) page*
+*The above can be accessed from [this](https://eu.wargaming.net/clans/wot/CLAN_ID/globalmap) page*
 
 #### [GM] Battle history
 
