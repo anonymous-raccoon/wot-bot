@@ -5,11 +5,14 @@ World of tanks discord bot. Does some things (hopefully).
 
 For debugging:
 
-| Attribute  | Example     |
-| ---------- | ----------- |
-| `clan_tag` | `USAGI`     |
-| `clan_id`  | `500075018` |
+| Attribute    | Example          |
+| ------------ | ---------------- |
+| `clan_tag`   | `USAGI`          |
+| `clan_id`    | `500075018`      |
+| `nickname`   | `Natriummangel`* |
+| `account_id` | `507295090`      |
 
+**Selected due to being top player by WN8 on the EU server at time of writing*
 
 ## Functionality
 
